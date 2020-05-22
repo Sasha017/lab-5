@@ -1,0 +1,7 @@
+ua\lviv\iot\tableware\model\DisponsableTableWare.class
+ua\lviv\iot\tableware\manager\DisponsableTableWareManager.class
+ua\lviv\iot\tableware\model\Fork.class
+ua\lviv\iot\tableware\model\SortType.class
+ua\lviv\iot\tableware\model\MatherialType.class
+ua\lviv\iot\tableware\manager\DisponsableTableWareManagerUtils.class
+ua\lviv\iot\tableware\model\Glass.class
